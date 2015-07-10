@@ -1,5 +1,5 @@
 # Source of data for this project: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-
+# Coursera Project
 # This R script does the following:
 
 # 1. Merges the training and the test sets to create one data set.
@@ -57,3 +57,4 @@ for (s in 1:numSubjects) {
         }
 }
 write.table(result, "data_set_with_the_averages.txt")
+
