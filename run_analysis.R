@@ -1,5 +1,5 @@
 # Source of data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-# Coursera Project
+# Coursera Project final commit
 # This R script does the following 5 actions:
 
 # 1. Combine the training and the test data sets.
